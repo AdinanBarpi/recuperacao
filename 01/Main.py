@@ -6,8 +6,8 @@ class Main:
     def __init__(self):
         self.em_execucao = True
         self.agenda = Agenda()
-        self.agenda.set_proprietario('Prof Debs')
-        self.agenda.set_ano(2021)
+        self.agenda.set_proprietario('Adinan e Guilherme')
+        self.agenda.set_ano(2077)
 
     def mostrar_menu(self):
         print('')
